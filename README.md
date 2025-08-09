@@ -68,7 +68,7 @@ A **production-ready, domain-agnostic RAG (Retrieval-Augmented Generation) chatb
 
 3. **Set up environment variables**
    ```
-    "GEMINI_API_KEY=your_gemini_api_key_here" > .env
+    "GEMINI_API_KEY=your_gemini_api_key_here"
    ```
 
 4. **Run the application**
